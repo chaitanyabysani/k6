@@ -333,13 +333,27 @@ git --version
 **🛠️ What I Did:**
 - Created the `k6` GitHub repository
 - Set up the project structure with folders for tests, scripts, results, and docs
-- Added a detailed README with setup instructions and load testing types   
+- Added a detailed README with setup instructions and load testing types
+- Installed k6, Node.js, and VS Code on my Windows machine
+- Verified all tools are working correctly
+- Initialized a Node.js project and added .gitignore
+- Installed @types/k6 for autocomplete in VS Code
+- Pushed all changes to GitHub
+- Created the first test script for a simple smoke test
+- executed the smoke test and verified it runs successfully
+- we used command to run the test is 'k6 run tests/example-test.js'
 
 **📂 Files Created:**
 - `README.md` — This file with all the setup instructions and reference information
 - `.gitignore` — To ignore node_modules and other unnecessary files
 - `package.json` — Node.js project configuration file
 - `node_modules/` — Created after installing @types/k6 (not uploaded to GitHub)
+- `tests/example-test.js` — First k6 test script for a smoke test
+
+**Run command to execute the test:**
+```bash
+k6 run tests/example-test.js
+```
 
 ---
 
