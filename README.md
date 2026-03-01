@@ -430,6 +430,7 @@ git push
 - 💬 [k6 Community Forum](https://community.grafana.com/c/grafana-k6/)
 - ⭐ [k6 GitHub Repository](https://github.com/grafana/k6)
 - 🎓 [k6 Examples](https://grafana.com/docs/k6/latest/examples/)
+- 🎓 [Practice website](https://quickpizza.grafana.com/)
 
 ---
 
