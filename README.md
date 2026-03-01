@@ -434,6 +434,13 @@ git push
 
 ---
 
+## 📊 Visual Guides
+
+| File | Preview Link |
+|------|-------------|
+| Load Testing Types | [View](https://htmlpreview.github.io/?https://github.com/chaitanyabysani/k6/blob/main/interview-prep/load-testing-types.html) |
+| Visual Guide | [View](https://htmlpreview.github.io/?https://github.com/chaitanyabysani/k6/blob/main/interview-prep/load-testing-visual-guide.html) |
+
 ## 📝 Author
 
 **Chaitanya Bysani** — Learning k6 performance testing in public, one day at a time.
